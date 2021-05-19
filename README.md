@@ -48,6 +48,6 @@
 
 ### Deploy To Heroku</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rajkumar-27/Group-Music-Probot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bot-support/Group-Music-Probot.git)
 
 Use [replit](https://replit.com/@Rajkumar271/GroupMusicProbot) to get pyrogram string session
